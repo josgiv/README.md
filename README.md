@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpiha-uu3Io0O1S1_TyaDj19MFwErq5_fwJE6N5gVjDUSN2qb4CWibFqqjv34wZkJr_Jp88wHwLcYA52fdOofuO8naQvBvuQ=w1910-h880" align="center" style="width: 100%" />
+  <img src="https://drive.google.com/file/d/1a6EH86CqduCw-IMlsa4vS-kntoJ1gpn-/view" align="center" style="width: 100%" />
 </div>  
 
 <h2 align="center">Hello, I'm Josia, Undergraduate Data Science Student 👨‍💻</h2>
